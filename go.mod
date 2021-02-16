@@ -1,3 +1,3 @@
-module goray
+module github.com/chunqian/go-raylib
 
-go 1.14
+go 1.15
